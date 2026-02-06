@@ -1,2 +1,2 @@
 # my first calculator
-[Demo](https://latumat.github.io/Project-Calculator/)
+[Demo](https://latumat.github.io/calculator/)
